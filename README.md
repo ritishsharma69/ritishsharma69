@@ -58,11 +58,11 @@
 
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritishfj\&layout=compact\&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritishsharma69\&layout=compact\&theme=dracula)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ritishfj\&theme=dracula\&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=ritishsharma69\&theme=dracula\&hide_border=false)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ritishfj\&theme=dracula)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ritishsharma69\&theme=dracula)
 
 </div>
 
@@ -71,7 +71,7 @@
 ## 🐍 GitHub Snake Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ritishfj/ritishfj/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ritishsharma69/ritishsharma69/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -86,5 +86,5 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ritishfj.ritishfj"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ritishsharma69.ritishsharma69"  />
 </div>
